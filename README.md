@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=30&pause=1000&color=0000FF&center=true&repeat=false&random=false&width=435&lines=Nicolas+Chiesa)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&random=false&width=435&lines=Aprendendo+Continuamente;Me+siga+para+ver+meu+trabalho!)](https://git.io/typing-svg) <br/>
+
 ### 👓 Sobre Mim
 
 Saudações! Sou um entusiasta da programação e estudante na Uniasselvi, localizada no encantador Rio Grande do Sul. Minha jornada na tecnologia da informação é impulsionada por uma paixão profunda pela programação. Sempre em busca de aprimorar meus conhecimentos e ganhar experiência, meu amor pela área da informática é intrínseco, uma conexão que se fortaleceu ao longo dos anos, crescendo em sintonia com a evolução tecnológica. Agora, meu objetivo é compreender e contribuir para o desenvolvimento dessa área que moldou minha trajetória.
