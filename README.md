@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0000FF&center=true&repeat=false&random=false&width=1000&height=100&lines=Nicolas)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&random=false&width=1000&lines=Aprendendo+Continuamente;Me+siga+para+ver+meu+trabalho!)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=50&pause=1000&color=483D8B&center=true&repeat=false&random=false&width=1000&height=100&lines=Nicolas+Chiesa)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=25&pause=1000&color=483D8B&center=true&random=false&width=1000&lines=Todo+dia+aprendendo+algo+novo!;Me+siga+para+novidades!;Desenvolvedor+App+e+Web+Full-Stack)](https://git.io/typing-svg) <br/>
 
 ### 👓 Sobre Mim
 
@@ -20,4 +20,4 @@ Saudações! Sou um entusiasta da programação e estudante na Uniasselvi, local
 Estou aberto a colaborações em projetos interessantes. Se você tem ideias ou está buscando um parceiro de desenvolvimento, sinta-se à vontade para entrar em contato.
 
 ### 📈 Minhas Estastísticas
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=NkZM4sk&show_icons=true&theme=transparent&locale=pt-br)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NkZM4sk&show_icons=true&theme=transparent&locale=pt-br&title_color=483D8B&icon_color=483D8B)
