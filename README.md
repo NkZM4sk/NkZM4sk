@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👓 Sobre Mim
 
-<!--
-**NkZM4sk/NkZM4sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saudações! Sou um entusiasta da programação e estudante na Uniasselvi, localizada no encantador Rio Grande do Sul. Minha jornada na tecnologia da informação é impulsionada por uma paixão profunda pela programação. Sempre em busca de aprimorar meus conhecimentos e ganhar experiência, meu amor pela área da informática é intrínseco, uma conexão que se fortaleceu ao longo dos anos, crescendo em sintonia com a evolução tecnológica. Agora, meu objetivo é compreender e contribuir para o desenvolvimento dessa área que moldou minha trajetória.
 
-Here are some ideas to get you started:
+### ⚡ Minhas Habilidades
+- Linguagens de Programação: C#, Java, Python.
+- Tecnologias Front-end: HTML, CSS, JavaScript, PHP.
+- Tecnologias Back-end: Node.js, ASP.NET.
+- Banco de Dados: MySQL, MongoDB.
+- Ferramentas e Outras Habilidades: Git, Visual Studio, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 Meu Contato
+- [E-mail](mailto:nicolas.mchiesa@gmail.com) <br/>
+- [LinkedIn](https://www.linkedin.com/in/n1colasmedeir0s/) <br/>
+- [Instagram](https://www.instagram.com/_niczmd_/) <br/>
+
+Estou aberto a colaborações em projetos interessantes. Se você tem ideias ou está buscando um parceiro de desenvolvimento, sinta-se à vontade para entrar em contato.
+
+### 📈 Minhas Estastísticas
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=NkZM4sk&show_icons=true&theme=transparent&locale=pt-br)
