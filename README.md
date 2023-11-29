@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=30&pause=1000&color=0000FF&center=true&repeat=false&random=false&width=435&lines=Nicolas+Chiesa)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&random=false&width=435&lines=Aprendendo+Continuamente;Me+siga+para+ver+meu+trabalho!)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0000FF&center=true&repeat=false&random=false&width=1000&height=100&lines=Nicolas)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&random=false&width=1000&lines=Aprendendo+Continuamente;Me+siga+para+ver+meu+trabalho!)](https://git.io/typing-svg) <br/>
 
 ### 👓 Sobre Mim
 
